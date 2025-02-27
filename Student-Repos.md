@@ -14,13 +14,13 @@
 - Heilmann Tobias: <https://github.com/T0bmast4/NVS.git>
 - Heimberger Bernhard: <https://github.com/Bernhard86/NVS.git>
 - Holzgethan Hermann: <https://github.com/Holzgethanh/sj24-25-2daif-nvs1_Holzgethan.git>
-- Ivanov Nikola: <https://github.com/FalcoXVI/NVS_Ivanov.git> neuer
+- Ivanov Nikola: <https://github.com/FalcoXVI/NVS_Ivanov.git>
 - Krajinovic Robert: <https://github.com/Sajberluk/NVS.git>
 - Kul Cesur: <https://github.com/Kul-123/nvs_kul.git>
-- Kurta Sebastian:<https://github.com/bast-bit/NVS>
-- Majsec Marcel:
-- Medanovic Ajdin:
-- Orlovic Filip:
+- Kurta Sebastian: <https://github.com/bast-bit/NVS>
+- Majsec Marcel: <https://github.com/MarcelMajsec/blep123.git>
+- Medanovic Ajdin: <https://github.com/Medanovic/nvs_medanovic>
+- Orlovic Filip: <https://github.com/Filip12242/NVS_25.git>
 - Özdemir Cagribey: <https://github.com/OEZ240986/sj24-25-2daif-nvs1>
 - Pavkovic Stefan: <https://github.com/S1156/NVS.git>
 - Schmid Moritz: <https://github.com/mobisd/NVS_2DAIF_Schmid.git>

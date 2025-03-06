@@ -13,5 +13,5 @@ Ressourcen zum Unterricht
 - git / vscode
 - subnetting
 - dns
-- firwall
+- firewall
 - Absichern / härten

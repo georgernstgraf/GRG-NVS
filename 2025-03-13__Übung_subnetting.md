@@ -2,7 +2,12 @@
 
 ## Übung 1
 
-Bilde aus dem Netz 192.168.0.0 /24 4 Subnetze. Netze mit Mindestzahl an nutzbaren Host aber nicht darunter wählen: Netz a mit 20, Netz b mit 15, Netz c mit 30, und das Netz d mit den Rest Anteil der Netzwerkadressen.
+Bilde aus dem Netz 192.168.0.0 /24 4 Subnetze. Netze mit Mindestzahl an nutzbaren
+Host aber nicht darunter wählen:
+Netz a mit 20,
+Netz b mit 15,
+Netz c mit 30, und das
+Netz d mit den Rest Anteil der Netzwerkadressen.
 
 **Antwort**
 

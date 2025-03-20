@@ -5,7 +5,7 @@
 **HÜ**: In einem Ordner "2025-03-20__DNS" ist abzugeben:
 
 - Paarbildung
-- eigene und partner IP Adresse
+- eigene und partner IP Adresse sowie beide MAC Adressen
 - dig installieren
 - Abfrage MX von whitehouse.gov
 - Abfrage ip und ip6 von zdf.de

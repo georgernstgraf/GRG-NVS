@@ -27,6 +27,8 @@ Ressourcen zum Unterricht
 
 ## Schwerpunkt Netzwerktechnik
 
+- was ist NAT
+- WSL
 - git / vscode sind Arbeitsgrundlage
 - dns (ab ende märz)
 - http Protokoll cookies - sessions

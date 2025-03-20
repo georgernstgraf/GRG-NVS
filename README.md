@@ -2,12 +2,15 @@
 
 ## 2025-03-20
 
+**HÜ**: In einem Ordner "2025-03-20__DNS" ist abzugeben:
+
 - Paarbildung
-- WLAN Router / DNS Service konfigurieren und vom Parter abfragen
-- **HÜ**: In einem Ordner "2025-03-20__DNS" ist abzugeben:
 - eigene und partner IP Adresse
-- DNS Abfrage Ergebnisse
-- Screenshots Server Konfiguration
+- dig installieren
+- Abfrage MX von whitehouse.gov
+- Abfrage ip und ip6 von zdf.de
+- ping Nachbarn
+- Abgabe als Screenshot oder Text (vorzugsweise)
 
 ## Übungen sind immer bis spätestens 13h des Vortages hochzuladen, Danke
 

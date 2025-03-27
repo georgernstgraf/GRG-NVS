@@ -1,5 +1,9 @@
 # sj24-25-2daif-nvs1
 
+## 2025-03-27
+
+HÜ: In der Stunde 3.April wird eine existierende Filius Installation erwartet!
+
 ## 2025-03-20
 
 **HÜ**: In einem Ordner "2025-03-20__DNS" ist abzugeben:

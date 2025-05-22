@@ -1,7 +1,19 @@
 # sj24-25-2daif-nvs1
 
+## BONUS
+
+CA & Certificates
+
+## 2 VMS
+
+- IM bridgemode ein PING eine VM pinget die ander
+- ssh mit password von einer auf die andere VM
+- ssh ohne passwort
+
 ## 2025-03-27
 
+Es gibt auf einer Seite nur den recursive resolver (1 IP von root NS)
+Auf der anderen Seite sind der root NS + einer extra für eine domain
 HÜ: In der Stunde 3.April wird eine existierende Filius Installation erwartet!
 
 ## 2025-03-20
@@ -12,7 +24,7 @@ HÜ: In der Stunde 3.April wird eine existierende Filius Installation erwartet!
 - eigene und partner IP Adresse sowie beide MAC Adressen
 - dig installieren
 - Abfrage MX von whitehouse.gov
-- Abfrage ip und ip6 von zdf.de
+- Abfrage ip und ip6 von orf.de
 - ping Nachbarn
 - Abgabe als Screenshot oder Text (vorzugsweise)
 
